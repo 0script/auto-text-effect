@@ -14,6 +14,7 @@ Type text automiticaly at a set-able speed.
 * HTML 
 * CSS
 * JAVA SCRIPT
+
 ##Setup
 
 * Download the project and open the index.html in your web browser:
